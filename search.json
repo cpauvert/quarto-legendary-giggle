@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "lectures/quarto-foo.html#quarto",
+    "href": "lectures/quarto-foo.html#quarto",
+    "title": "02-Presentation Test Quarto",
+    "section": "Quarto",
+    "text": "Quarto\nText can be displayed with references (Rhee 2004).\n\nsample(LETTERS, size = 1)\n\n[1] \"W\""
+  },
+  {
+    "objectID": "lectures/quarto-foo.html#bullets",
+    "href": "lectures/quarto-foo.html#bullets",
+    "title": "02-Presentation Test Quarto",
+    "section": "Bullets",
+    "text": "Bullets\nFrom Rocca-Serra et al. (2023) This list includes:\n\n\nA: to store\nB: to analyze\nC: to share\nD: to whatever"
+  },
+  {
+    "objectID": "lectures/quarto-foo.html#definitions",
+    "href": "lectures/quarto-foo.html#definitions",
+    "title": "02-Presentation Test Quarto",
+    "section": "Definitions",
+    "text": "Definitions\n\n\nLeft column:\n\ntext\ntext\ntext\n\n\n\n\n\nNFDI4Microbiota logo"
+  },
+  {
+    "objectID": "lectures/quarto-foo.html#citations",
+    "href": "lectures/quarto-foo.html#citations",
+    "title": "02-Presentation Test Quarto",
+    "section": "Citations",
+    "text": "Citations\n\nThe complete citation could be highlighted on the slide with its text on multiple line Leonelli (2016)\n\nOr is it better here (Leonelli 2016)?"
+  },
+  {
+    "objectID": "lectures/quarto-foo.html#references",
+    "href": "lectures/quarto-foo.html#references",
+    "title": "02-Presentation Test Quarto",
+    "section": "References",
+    "text": "References\n\n\n\nhttps://nfdi4microbiota.de\n\n\n\nLeonelli, Sabina. 2016. Data-Centric Biology: A Philosophical Study. Chicago ; London: The University of Chicago Press.\n\n\nRhee, Seung Yon. 2004. “Carpe Diem. Retooling the ‘Publish or Perish’ Model into the ‘Share and Survive’ Model.” Plant Physiology 134 (2): 543–47. https://doi.org/10.1104/pp.103.035907.\n\n\nRocca-Serra, Philippe, Susanna-Assunta Sansone, Danielle Welter, and Alasdair J. G. Gray. 2023. “Selecting Terminologies and Ontologies.” The FAIR Cookbook. https://w3id.org/faircookbook/FCB020."
+  },
+  {
+    "objectID": "lectures/quarto-test.html#quarto",
+    "href": "lectures/quarto-test.html#quarto",
+    "title": "01-Presentation Test Quarto",
+    "section": "Quarto",
+    "text": "Quarto\nText can be displayed with references (Rhee 2004).\n\nsample(LETTERS, size = 1)\n\n[1] \"P\"\n\n\ncheck out the link: github"
+  },
+  {
+    "objectID": "lectures/quarto-test.html#bullets",
+    "href": "lectures/quarto-test.html#bullets",
+    "title": "01-Presentation Test Quarto",
+    "section": "Bullets",
+    "text": "Bullets\nFrom Rocca-Serra et al. (2023) This list includes:\n\n\nA: to store\nB: to analyze\nC: to share\nD: to whatever"
+  },
+  {
+    "objectID": "lectures/quarto-test.html#definitions",
+    "href": "lectures/quarto-test.html#definitions",
+    "title": "01-Presentation Test Quarto",
+    "section": "Definitions",
+    "text": "Definitions\n\n\nLeft column:\n\nTExt\nanother item\nanother one\n\n\n\n\n\nNFDI4Microbiota logo"
+  },
+  {
+    "objectID": "lectures/quarto-test.html#citations",
+    "href": "lectures/quarto-test.html#citations",
+    "title": "01-Presentation Test Quarto",
+    "section": "Citations",
+    "text": "Citations\n\nThe complete citation could be highlighted on the slide with its text on multiple line Leonelli (2016)\n\nOr is it better here (Leonelli 2016)?"
+  },
+  {
+    "objectID": "lectures/quarto-test.html#references",
+    "href": "lectures/quarto-test.html#references",
+    "title": "01-Presentation Test Quarto",
+    "section": "References",
+    "text": "References\n\n\n\nhttps://nfdi4microbiota.de\n\n\n\nLeonelli, Sabina. 2016. Data-Centric Biology: A Philosophical Study. Chicago ; London: The University of Chicago Press.\n\n\nRhee, Seung Yon. 2004. “Carpe Diem. Retooling the ‘Publish or Perish’ Model into the ‘Share and Survive’ Model.” Plant Physiology 134 (2): 543–47. https://doi.org/10.1104/pp.103.035907.\n\n\nRocca-Serra, Philippe, Susanna-Assunta Sansone, Danielle Welter, and Alasdair J. G. Gray. 2023. “Selecting Terminologies and Ontologies.” The FAIR Cookbook. https://w3id.org/faircookbook/FCB020."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website and the associated pages are a testing ground for hosting revealjs presentations."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "List of Quarto documents",
+    "section": "",
+    "text": "Below you will find the links to the presentations, and have the possibility to search all presentations.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 16, 2023\n\n\n01-Presentation Test Quarto\n\n\nJohn Foo Bar\n\n\n\n\nOct 16, 2023\n\n\n02-Presentation Test Quarto\n\n\nJohn Foo Bar\n\n\n\n\n\n\nNo matching items"
+  }
+]
