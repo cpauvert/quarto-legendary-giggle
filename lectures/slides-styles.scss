@@ -1,0 +1,56 @@
+/*-- scss:defaults --*/
+// fonts
+$font-family-sans-serif: 'Atkinson Hyperlegible', Lato, sans-serif !default;
+
+
+//https://coolors.co/0081af-363636-fdf6e3-ffb12d-618b4a
+/* SCSS HEX */
+$cerulean: #0081afff;
+$jet-dark: #363636ff;
+$cosmic-latte: #fdf6e3ff;
+$orange-biome: #ffb12dff;
+$fern-green: #618b4aff;
+
+// colors
+$body-bg: $cosmic-latte !default;
+$body-color: $jet-dark !default;
+$link-color: $orange-biome !default;
+$selection-bg: $orange-biome !default;
+
+// headings
+$presentation-heading-font: 'Atkinson Hyperlegible', "League Gothic", sans-serif !default;
+$presentation-heading-text-transform: uppercase !default;
+$presentation-heading-color: $cerulean !default;
+
+// code blocks
+$code-block-border-color: $body-color !default;
+
+
+/*-- scss:rules --*/
+
+html * {
+  color-profile: sRGB;
+  rendering-intent: auto;
+}
+
+.reveal blockquote {
+  display:block;
+  position:relative;
+  color: $fern-green;
+  width:unset;
+  margin:var(--r-block-margin) auto;
+  padding:.625rem 1.75rem;
+  border-right:.25rem solid $fern-green;
+  border-left: none;
+  font-style:italic;
+  background: none;
+  box-shadow:none;
+  text-align: right;
+}
+
+.reveal .slide a, .reveal .footer a {
+  text-decoration: underline;
+}
+.reveal .citation a {
+  text-decoration: none;
+}

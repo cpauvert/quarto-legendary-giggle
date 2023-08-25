@@ -1,0 +1,10 @@
+---
+title: "List of Quarto documents"
+listing:
+  contents:
+    - "lectures/*.qmd"
+  type: table
+---
+
+
+Below you will find the links to the presentations, and have the possibility to search all presentations.

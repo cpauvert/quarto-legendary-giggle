@@ -1,0 +1,15 @@
+services:
+    app:
+        image: rocker/tidyverse:4.3
+        ports:
+            - 127.0.0.1:8787:8787
+        working_dir: /home/rstudio/quarto-legendary-giggle
+        volumes:
+            - ./:/home/rstudio/quarto-legendary-giggle
+            - /etc/timezone:/etc/timezone:ro
+            - /etc/localtime:/etc/localtime:ro
+            - ~/.gitconfig:/home/rstudio/.gitconfig:ro
+        environment:
+            DISABLE_AUTH: true
+            PASSWORD: "yolo"
+

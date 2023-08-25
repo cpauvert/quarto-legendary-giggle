@@ -1,0 +1,67 @@
+---
+title: "02-Presentation Test Quarto"
+author: "John Foo Bar"
+date: "2023-10-16"
+format:
+  revealjs:
+    theme: solarized
+    css: "font.css"
+    slide-number: true
+    controls: true
+    controls-layout: edges
+    footer: <https://nfdi4microbiota.de>
+logo: "nfdi4microbiota_logo.png"
+bibliography: "citations.bib"
+---
+
+# Overall title of the presentation
+
+## Quarto
+
+Text can be displayed with references [@rhee_carpe_2004].
+
+```{r, echo = T}
+sample(LETTERS, size = 1)
+```
+
+
+## Bullets
+
+From @rocca-serra_selecting_2023 This list includes:
+
+::: {.incremental}
+
+- A: to **store**
+- B: to _analyze_
+- C: to ~~share~~
+- D: to whatever
+
+:::
+
+## Definitions
+
+:::: {.columns}
+
+::: {.column width="40%"}
+Left column:
+
+- text
+- text
+- text
+:::
+
+::: {.column width="60%"}
+![NFDI4Microbiota logo](nfdi4microbiota_logo.png)
+:::
+
+::::
+
+## Citations
+
+> The complete citation could be highlighted on the slide
+> with its text on multiple line
+> @leonelli_data-centric_2016
+
+Or is it better here [@leonelli_data-centric_2016]?
+
+## References

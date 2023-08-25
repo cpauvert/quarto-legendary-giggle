@@ -1,0 +1,6 @@
+---
+title: "About"
+editor: source
+---
+
+This website and the associated pages are a testing ground for hosting `revealjs` presentations.

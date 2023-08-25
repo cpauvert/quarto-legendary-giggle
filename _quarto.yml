@@ -1,0 +1,28 @@
+project:
+    title: "testing-quarto-pages"
+    type: website
+
+website:
+    title: "Testing Quarto Pages"
+    navbar:
+        background: primary
+        search: true
+        right:
+        - href: index.qmd
+          text: "Home"
+        - about.qmd
+
+    page-footer: 
+        left: "Copyright 2023, Foo Bar" 
+        right: 
+            - href: "https://github.com/cpauvert/quarto-legendary-giggle"
+              text: "Github"
+
+format:
+    html:
+      theme:
+          - flatly
+          - styles.scss
+
+
+
